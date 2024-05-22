@@ -1,0 +1,5 @@
+path: D:\Dev_Vision\YoLo_8\dataset
+train: train/
+val: val/
+nc: 3
+names: ['Duy','Dat','Ball']
